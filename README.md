@@ -3,6 +3,9 @@ KARAN GILL
 ABEL SAM MATHEW 
 ARMANJOT SINGH
 JEELKUMAR
+
+LIVE LINK-
+https://groupfinal.netlify.app/home
 ## Description
 
 This Weather App allows users to fetch real-time weather data by entering a city name. It displays essential weather details such as temperature, humidity, wind speed, and conditions. The app utilizes the OpenWeatherMap API to gather weather data and is built using **Ionic Framework** with **Angular**. Bootstrap is also used to enhance the user interface with responsive design and modern styles.
